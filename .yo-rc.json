@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.21.0",
+    "sdksVersions": {},
+    "version": "1.22.1",
+    "libraryName": "intranet-web-parts-v-2",
+    "libraryId": "31638637-574d-438a-84b2-fa51dd54b3f3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "intranet-web-parts-v2",
+    "solutionShortDescription": "intranet-web-parts-v2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
